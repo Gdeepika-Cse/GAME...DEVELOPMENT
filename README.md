@@ -1,9 +1,9 @@
+# NAME: DEEPIKA G
+# REG.NO: 212224040060
+
 # EX 8 : THREE DIMENSIONAL IMAGE PROJECTIONS
-
 ## AIM :
-    
-  To implement the projections in three dimensional image using a C coding.
-
+To implement the projections in three dimensional image using a C coding.
 
 ## ALGORITHM :
 
